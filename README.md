@@ -7,22 +7,26 @@ also get medical tips to prevent the worst-case scenario.
 
 
 ## Inspiration
-Someone from my hometown lost his life due to a late responce from the ambulance, another person was robbed and the security agency didn't arrive very early because they couldn't locate his house this and more issues related to emergencies are happening here in my country.
+Someone from my hometown lost his life due to a late response from the ambulance, another person was robbed and the security agency didn't arrive very early because they couldn't locate his house this and more issues related to emergencies are happening here in my country.
 
+## Features
+- Emergency Location Pinning
+- AI Chat Assistance
+- USSD Emergency Chat Assistance
 
 ## What's next for Health Force
-Health Force is going global from my community to national and to international.
+Health Force is going global from my community to national finally to international.
 
 
 Built With
 - ai
 - gps
 - gpt (ask cohere model)
-- laravel
+- laravel (for USSD backend)
 - php
 - mysql
 - text to voice
-- ussd
+- ussd (AfricansTalking)
 - voice to text
 
 ## Try it out
@@ -35,3 +39,14 @@ GitHub Repo
 
 Video Demo
 - https://youtube.com/@abdulsalamamtech
+
+USSD Video Demo
+- https://youtube.com/@abdulsalamamtech
+
+Backend GitHub Repo
+- https://github.com/abdulsalamamtech/
+
+
+## Contact
+Email
+- [abdulsalamamtech@gmail.com](https://mailto:abdulsalamamtech@gmail.com)
