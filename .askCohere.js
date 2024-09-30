@@ -1,14 +1,14 @@
 
 
 
-function askCohere(apiKey, question) {
+function askCohere(apiKey, que) {
 
 
     let prompt = `
-
+        Act like a medical professional, and give advise based on my prompt,
+        ${que} make it short and simple
     `;
-
-    let question = `${question} make it short and simple`;
+    
     $.ajax({
       url: "https://api.cohere.ai/generate/",
       method: "POST",
@@ -18,7 +18,7 @@ function askCohere(apiKey, question) {
       },
       data: JSON.stringify({
         model: "command-xlarge-nightly",
-        prompt: question,
+        prompt: prompt,
         max_tokens: 1000,
       }),
       success: function (response) {
