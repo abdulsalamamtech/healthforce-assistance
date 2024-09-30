@@ -41,7 +41,7 @@ GitHub Repo
 - https://github.com/abdulsalamamtech/healthforce-assistance
 
 Video Demo
-- https://youtube.com/@abdulsalamamtech
+- https://youtu.be/CHyZoT-tkyk
 
 USSD Video Demo
 - https://youtu.be/E3-6QOeZFB0
