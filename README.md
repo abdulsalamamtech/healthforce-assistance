@@ -34,6 +34,9 @@ Built With
 Live Demo
 - https://healthforce-assistance.vercel.app
 
+Medical AI Chat Assistance
+- https://healthforce-assistance.vercel.app/chat-assist.html
+
 GitHub Repo
 - https://github.com/abdulsalamamtech/healthforce-assistance
 
@@ -41,7 +44,7 @@ Video Demo
 - https://youtube.com/@abdulsalamamtech
 
 USSD Video Demo
-- https://youtube.com/@abdulsalamamtech
+- https://youtu.be/E3-6QOeZFB0
 
 Backend GitHub Repo
 - https://github.com/abdulsalamamtech/
