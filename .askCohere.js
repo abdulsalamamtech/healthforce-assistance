@@ -6,7 +6,8 @@ function askCohere(apiKey, que) {
 
     let prompt = `
         Act like a medical professional, and give advise based on my prompt,
-        ${que} make it short and simple
+        make it brief, simple and short, 
+        ${que} 
     `;
     
     $.ajax({
@@ -19,7 +20,7 @@ function askCohere(apiKey, que) {
       data: JSON.stringify({
         model: "command-xlarge-nightly",
         prompt: prompt,
-        max_tokens: 1000,
+        max_tokens: 1024,
       }),
       success: function (response) {
         console.log(response);
